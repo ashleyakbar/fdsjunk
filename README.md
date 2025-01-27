@@ -1,2 +1,2 @@
 # fdsjunk
-This is an example repository for 2025 FDS class 
+This is an example repository for 2025 spring FDS class 
